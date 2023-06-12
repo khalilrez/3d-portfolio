@@ -161,7 +161,7 @@ const LoadingScreen: React.FC<LoadingProps> = () => {
                         <div style={styles.logoContainer}>
                             <div>
                                 <p style={styles.green}>
-                                    <b>Heffernan,</b>{' '}
+                                    <b>Khalil Rezgui,</b>{' '}
                                 </p>
                                 <p style={styles.green}>
                                     <b>Welcome ...</b>
@@ -248,7 +248,7 @@ const LoadingScreen: React.FC<LoadingProps> = () => {
                                     WARNING: This experience is best viewed on
                                 </p>
                                 <p style={styles.warning}>
-                                    a desktop or laptop computer.
+                                    a desktop or laptop computer. <a href="https://khalilrez.github.io/khalilrezgui/"> Go Here for 2D version</a>
                                 </p>
                             </b>
                             <br />
