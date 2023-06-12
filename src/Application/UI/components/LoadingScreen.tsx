@@ -220,8 +220,7 @@ const LoadingScreen: React.FC<LoadingProps> = () => {
                         className="loading-screen-footer"
                     >
                         <p>
-                            Press <b>DEL</b> to enter SETUP , <b>ESC</b> to skip
-                            memory test
+                            This is a copied design of another developer i look up to <b>@henryjeff</b>
                         </p>
                         <p>{getCurrentDate()}</p>
                     </div>
